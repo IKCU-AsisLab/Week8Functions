@@ -13,6 +13,7 @@ project ("shippingCalculator")
 
 # Add source to this project's executable.
 add_executable (shippingCalculator "shippingCalculator.c" "shippingFunctions.c")
+add_executable (arithmeticSeries "arithmeticSeries.c")
 add_executable (factorial "factorial.c")
 add_executable (robot1D "robot1D.c")
 add_executable (robot2D "robot2D.c")
